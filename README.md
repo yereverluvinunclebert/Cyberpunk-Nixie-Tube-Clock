@@ -4,8 +4,8 @@
  Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
  Apple Mac.
  
- ![steampunkResisitors0001](https://github.com/yereverluvinunclebert/Steampunk-Resistors/assets/2788342/a58a6caa-270c-451b-ac94-00f285513789)
- 
+![Cyberpunk-Nixie-Tube-Clock](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/assets/2788342/05711f89-99a0-44ad-baf4-7f029cd4a36b)
+
  This widget is an attractive steampunk Yahoo widget for your desktop. It 
  displays a continuous time update on your desktop. It is based upon Nixie tubes 
  that were used as status indicators/displays in the 50/60s - 70s. This Widget 
@@ -13,6 +13,8 @@
  require. New about us page, repositions properly on tablet devices in 
  portrait/landscape mode. Can be locked by clicking on the second tube.
  
+ ![nixieValve](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/assets/2788342/073c64ef-7ac9-4e36-a248-2065b7f861fd)
+
  The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
  and use your mousewheel up or down. The widget will resize dynamically.
  
@@ -20,7 +22,9 @@
  the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
  creates the widget according to the XML description and using the images you 
  provide. 
- 
+
+ ![2G](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/assets/2788342/f8374572-9850-4c4f-ae68-6c4c73aec94a)
+
  Built using: 
  
    RJTextEd Advanced Editor  https://www.rj-texted.se/ 
@@ -81,6 +85,8 @@
  menubar item should appear. Widgets can then be started from the menubar or by 
  double-clicking on the KON file in the usual way.
  
+ ![nixiebg1](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/assets/2788342/503b987a-19ad-4689-8847-b3a9cfc89475)
+
  
  LICENCE AGREEMENTS:
  
@@ -93,3 +99,4 @@
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
  
+![About](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/assets/2788342/9225a09e-a059-4a1d-b340-ed081bf161dc)
