@@ -21,21 +21,22 @@
  creates the widget according to the XML description and using the images you 
  provide. 
  
- Built using: 
- 
-   RJTextEd Advanced Editor  https://www.rj-texted.se/ 
-   Adobe Photoshop CS ver 8.0 (2003)  https://www.adobe.com/uk/products/photoshop/free-trial-download.html  
- 
- Tested on :
- 
-   ReactOS 0.4.14 32bit on virtualBox    
-   Windows 7 Professional 32bit on Intel    
-   Windows 7 Ultimate 64bit on Intel    
-   Windows 7 Professional 64bit on Intel    
-   Windows XP SP3 32bit on Intel    
-   Windows 10 Home 64bit on Intel    
-   Windows 10 Home 64bit on AMD    
-   Windows 11 64bit on Intel  
+Built using: 
+
+  RJTextEd Advanced Editor  https://www.rj-texted.se/ 
+  Adobe Photoshop CS ver 8.0 (2003)  https://www.adobe.com/uk/products/photoshop/free-trial-download.html  
+
+Tested on :
+
+  ReactOS 0.4.14 32bit on virtualBox    
+  Windows 7 Professional 32bit on Intel    
+  Windows 7 Ultimate 64bit on Intel    
+  Windows 7 Professional 64bit on Intel    
+  Windows XP SP3 32bit on Intel    
+  Windows 10 Home 64bit on Intel    
+  Windows 10 Home 64bit on AMD    
+  Windows 11 64bit on Intel  
+  
    
  Dependencies:
  
