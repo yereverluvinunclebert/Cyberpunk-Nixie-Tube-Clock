@@ -6,7 +6,7 @@ function otherwidgets() {
 	var answer = alert("This button opens a browser window and connects to the Steampunk widgets page on my site. Do you wish to proceed", "Open Browser Window", "No Thanks");
 
 	if (answer === 1) {
-		openURL("http://lightquick.co.uk/steampunk-widgets.html?Itemid=264");
+		openURL("https://www.deviantart.com/yereverluvinuncleber/gallery/59981269/yahoo-widgets");
 		if (preferences.soundsPref.value === "enable") {
 			play(winding, false);
 		}
@@ -89,7 +89,7 @@ function menuitem2OnClick() {
 	var answer = alert("Visiting the support page - this button opens a browser window and connects to our contact us page where you can send us a support query or just have a chat). Proceed?", "Open Browser Window", "No Thanks");
 
 	if (answer === 1) {
-		openURL("http://lightquick.co.uk/contact.html?Itemid=3");
+        openURL("https://www.facebook.com/people/Steampunk-Widgets/pfbid025qrSzGhRhc1NPyyyBCJaLaYGMUVB4T32ZQdHurJrHeKRtahqANnvBBts4q6QYJAfl/");
 	}
 }
 
@@ -97,7 +97,7 @@ function menuitem2OnClick() {
 function update() {
 	var answer = alert("Download latest version of the widget (this button opens a browser window and connects to the widget download page where you can check and download the latest zipped .WIDGET file). Proceed?", "Open Browser Window", "No Thanks");
 	if (answer === 1) {
-		openURL("http://lightquick.co.uk/jdownloads/cyberpunk-yahoo-thermionic-nixie-tube-valve-widget.html?Itemid=264");
+		openURL("https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock/");
 	}
 }
 
